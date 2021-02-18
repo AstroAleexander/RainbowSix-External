@@ -1,4 +1,4 @@
 # RainbowSix-External
-A Undetected Valorant Hack that is frequently updated.
+RainbowSix External Updated February 18
 
 ![](logo.png)
